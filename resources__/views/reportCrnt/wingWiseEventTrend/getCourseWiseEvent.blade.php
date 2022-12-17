@@ -1,0 +1,2 @@
+{!! Form::select('event_id[]', $eventList, null,  ['multiple'=>'multiple', 'class' => 'form-control', 'id' => 'eventId', 'data-width' => '100%']) !!}
+<span class="text-danger">{{ $errors->first('event_id') }}</span>

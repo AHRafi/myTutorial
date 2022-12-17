@@ -1,0 +1,36 @@
+/*state details report style*/
+@font-face{
+    font-family:'Glyphicons Halflings';
+    src:url(../fonts/bootstrap/glyphicons-halflings-regular.eot);
+    src:url(../fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),
+        url(../fonts/bootstrap/glyphicons-halflings-regular.woff2) format("woff2"),
+        url(../fonts/bootstrap/glyphicons-halflings-regular.woff) format("woff"),
+        url(../fonts/bootstrap/glyphicons-halflings-regular.ttf) format("truetype"),
+        url(../fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+}
+.text-primary {
+    color: #337ab7;
+}
+.text-danger {
+    color: #ed6b75;
+}
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.glyphicon-ok:before {
+    content: "\e013";
+}
+.glyphicon-remove:before {
+    content: "\e014";
+}
+
+
+/*End state details report style*/

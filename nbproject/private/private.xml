@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>app/Http/Controllers/PendingOrderController.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>163</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/routes/web.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/public/frontend/assets/css/style.css</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/resources/lang/en/label.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/app/Http/Controllers/FrontendController.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/resources/views/retailer/index.blade.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/app/Http/Controllers/RetailerController.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/resources/views/retailer/create.blade.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/public/frontend/assets/css/custom.css</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/resources/views/retailer/addAdditionalInfo.blade.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/resources/views/frontend/register.blade.php</file>
+            <file>file:/D:/xampp74/htdocs/distributor/v2/app/Http/Controllers/UserController.php</file>
+        </group>
+    </open-files>
+</project-private>

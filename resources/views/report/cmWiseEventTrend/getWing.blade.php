@@ -1,0 +1,2 @@
+{!! Form::select('wing_id', $wingList, null,  ['class' => 'form-control js-source-states', 'id' => 'wingId', 'data-width' => '100%']) !!}
+<span class="text-danger">{{ $errors->first('wing_id') }}</span>

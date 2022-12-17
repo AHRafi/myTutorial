@@ -1,0 +1,2 @@
+{!! Form::select('ds_id[]', $dsList, null,  ['multiple'=>'multiple', 'class' => 'form-control', 'id' => 'dsId', 'data-width' => '100%']) !!}
+<span class="text-danger">{{ $errors->first('ds_id') }}</span>

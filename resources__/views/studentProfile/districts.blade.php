@@ -1,0 +1,1 @@
+{!!  Form::select('district_id', $districtList,  null, ['class' => 'form-control js-states' ]) !!}

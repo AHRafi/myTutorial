@@ -1,0 +1,1 @@
+{!! Form::select('term_id', $termList, null,  ['class' => 'form-control js-source-states', 'id' => 'termId']) !!}

@@ -1,0 +1,2 @@
+{!! Form::select('commissioning_course_id[]', $commissioningCourseList, null,  ['multiple'=>'multiple', 'class' => 'form-control', 'id' => 'commissioningCourseId', 'data-width' => '100%']) !!}
+<span class="text-danger">{{ $errors->first('commissioning_course_id') }}</span>

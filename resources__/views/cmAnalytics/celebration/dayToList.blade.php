@@ -1,0 +1,1 @@
+{!! Form::select('day_to', $dayList,  null, ['class' => 'form-control js-source-states', 'id' => 'dayTo']) !!}

@@ -1,0 +1,1 @@
+{!! Form::select('syn_id', $synList, null,  ['class' => 'form-control js-source-states', 'id' => 'synId']) !!}

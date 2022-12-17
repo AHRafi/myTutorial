@@ -1,0 +1,23 @@
+.pictogram-space{
+	margin-right:30px;
+}
+
+.pictogram-min-space{
+	margin-right:15px;
+}
+.manage-product-select{
+	width:221px;
+}
+.margin-top-10{
+    margin-top: 10px !important;
+}
+.row.modalForm {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.mt-widget-3.large-btn .mt-head .mt-head-button>button{
+	width:130px;
+}
+.mt-widget-3.x-large-btn .mt-head .mt-head-button>button{
+	width:160px;
+}

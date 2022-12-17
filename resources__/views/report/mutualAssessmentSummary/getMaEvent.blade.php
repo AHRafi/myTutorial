@@ -1,0 +1,1 @@
+{!! Form::select('maEvent_id', $maEventList, Request::get('maEvent_id'), ['class' => 'form-control js-source-states', 'id' => 'maEventId']) !!}

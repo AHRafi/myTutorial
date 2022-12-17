@@ -1,0 +1,1 @@
+{!! Form::select('sub_syn_id', $subSynList, null,  ['class' => 'form-control js-source-states', 'id' => 'subSynId']) !!}
